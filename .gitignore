@@ -2,5 +2,6 @@
 *.pyc
 
 
-# readme
+# backup files
 README.md~
+.gitignore~
