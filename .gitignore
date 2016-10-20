@@ -1,7 +1,0 @@
-# do not commit compiled python bytecode
-*.pyc
-
-
-# backup files
-README.md~
-.gitignore~
