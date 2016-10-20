@@ -41,7 +41,7 @@ class sgNode:
 
     def isBaseNode(self):
         if (self.prevNode is None):
-            assert (self.score is None);
+            #assert (self.score is None);
             assert (self.moveCount == 0);
             assert (self.stepToHere is None);
             return True;
